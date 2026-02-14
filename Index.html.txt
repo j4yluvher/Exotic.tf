@@ -1387,6 +1387,6 @@ const db = getFirestore(app);
         variantSelect.addEventListener('change', updatePrice);
         quantityInput.addEventListener('input', updatePrice);
 
-    </script>
+    <script type="module">
 </body>
 </html>
